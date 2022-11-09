@@ -1,0 +1,23 @@
+@import "~reset-css";
+
+body {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+body > div {
+    height: 100%;
+    width: 100%;
+}
+
+.activity h2 {
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.activity div {
+    font-size: 1rem;
+    line-height: 1.5;
+}
